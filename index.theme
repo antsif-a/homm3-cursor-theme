@@ -1,0 +1,8 @@
+[Icon Theme]
+Name=Heroes of Might and Magick 3
+Name[ru]=Герои меча и магии 3
+
+Comment=Cursor theme from Heroes of Might and Magick 3
+Comment[ru]=Тема для указателя из Героев меча и магии 3
+
+Inherits=Adwaita
